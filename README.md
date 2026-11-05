@@ -12,6 +12,12 @@ Il percorso è organizzato in **Jupyter Notebook**, che combinano spiegazioni te
 
 I notebook possono essere utilizzati durante le attività laboratoriali oppure autonomamente, senza installare software, attraverso [Google Colab](https://colab.research.google.com/).
 
+### Notebook disponibili
+
+**01 — Programmare come modo di pensare**
+
+[![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/pensare-in-python/blob/main/notebook/capitolo_01.ipynb)
+
 ## Riferimenti e licenze
 
 I materiali sono basati su [*Think Python*, terza edizione](https://allendowney.github.io/ThinkPython/), di Allen B. Downey (2024), di cui propongono una traduzione italiana con integrazioni didattiche.
