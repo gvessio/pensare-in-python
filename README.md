@@ -16,6 +16,7 @@ I notebook possono essere utilizzati durante le attività laboratoriali oppure a
 
 - **01 — Programmare come modo di pensare** [![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/pensare-in-python/blob/main/notebook/capitolo_01.ipynb)
 - **02 — Variabili e istruzioni** [![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/pensare-in-python/blob/main/notebook/capitolo_02.ipynb)
+- **03 — Funzioni** [![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/pensare-in-python/blob/main/notebook/capitolo_03.ipynb)
 
 ## Riferimenti e licenze
 
