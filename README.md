@@ -20,6 +20,7 @@ I notebook possono essere utilizzati durante le attività laboratoriali oppure a
 - **04 — Funzioni e interfacce** [![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/pensare-in-python/blob/main/notebook/capitolo_04.ipynb)
 - **05 — Condizioni e ricorsione** [![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/pensare-in-python/blob/main/notebook/capitolo_05.ipynb)
 - **06 — Valori restituiti** [![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/pensare-in-python/blob/main/notebook/capitolo_06.ipynb)
+- **07 — Iterazione e ricerca** [![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gvessio/pensare-in-python/blob/main/notebook/capitolo_07.ipynb)
 
 ## Riferimenti e licenze
 
